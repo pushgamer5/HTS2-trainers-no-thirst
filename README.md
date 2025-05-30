@@ -1,0 +1,1 @@
+# HTS2-trainers-no-thirst
